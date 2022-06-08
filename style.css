@@ -99,7 +99,7 @@ section img {
 
 
 section div:nth-child(1) {
-  background: url(/images/white-box.jpg);
+  background: url(images/white-box.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -111,7 +111,7 @@ section div:nth-child(1) {
 }
 
 section div:nth-child(2) { 
-  background: url(/images/room.jpg);
+  background: url(images/room.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
@@ -122,7 +122,7 @@ section div:nth-child(2) {
 }
 
 section div:nth-child(3) { 
-  background: url(/images/black-white.jpg);
+  background: url(images/black-white.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
